@@ -15,3 +15,13 @@
 * https://cognitivewaves.wordpress.com/cmake-and-visual-studio/ (CMake and Visual Studio)
 * https://cmake.org/cmake/help/latest/module/FindBoost.html (Find Boost Library using CMake)
 * https://github.com/cpm-cmake/CPM.cmake (CPM)
+
+_____________________________________
+## General
+### CMAKE_CURRENT_SOURCE_DIR vs. PROJECT_SOURCE_DIR
+* CMAKE_CURRENT_SOURCE_DIR
+* PROJECT_SOURCE_DIR
+
+### CMAKE_PROJECT_NAME vs. PROJECT_NAME
+* CMAKE_PROJECT_NAME
+* PROJECT_NAME
