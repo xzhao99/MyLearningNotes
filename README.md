@@ -30,6 +30,10 @@ sudo reboot  # reboot the Linux server, if a new kernel installed
 sudo apt update # get update first!
 sudo apt install build-essential
 ```
+It will be a good idea to run the autoremove command to remove the residual dependency packages
+```
+sudo apt autoremove
+```
 ____
 ## Useful tools
 ### system tools:
