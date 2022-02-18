@@ -50,3 +50,9 @@ ____
 * Git
 * yEd
 * Source Trail
+
+### Visualization & Graphics
+* ParaView
+* Blender
+* VisIt
+* MeshLab
