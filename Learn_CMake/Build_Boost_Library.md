@@ -13,4 +13,16 @@ https://github.com/boostorg/wiki/wiki/Getting-Started%3A-Overview
 ### ./b2
 ### ./b2 headers
 
+### **Message:**
+...updated 1602 targets...
 
+
+The Boost C++ Libraries were successfully built!
+
+The following directory should be added to compiler include paths:
+
+    /home/xzhao/workdir/boost_git_src
+
+The following directory should be added to linker library paths:
+
+    /home/xzhao/workdir/boost_git_src/stage/lib
