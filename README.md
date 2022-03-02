@@ -74,3 +74,7 @@ To verify if Python was successfully installed, run the following command in the
 ```
 python3 --version
 ```
+
+### tutorials
+https://www.w3schools.com/python/default.asp
+https://www.geeksforgeeks.org/python-programming-language/?ref=ghm
