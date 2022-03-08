@@ -9,7 +9,7 @@ sudo apt install build-essential
 The command installs a lot of packages, including gcc, g++ and make
 ______
 
-#### install multi-version of gcc/g++/gfortran, e.g. version 11 on Ubuntu 20.04
+#### Install multi-version of gcc/g++/gfortran, e.g. version 11 on Ubuntu 20.04
 Run the following command to add the Toolchain repository:
 
 ```
@@ -20,6 +20,29 @@ Install gcc 11:
 ```
 sudo apt install -y gcc-11 g++-11 gfortran-11
 ```
+The terminal information:
+```
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+gcc-11 is already the newest version (11.1.0-1ubuntu1~20.04).
+The following additional packages will be installed:
+  libgfortran-11-dev libgfortran5 libstdc++-11-dev libstdc++6
+Suggested packages:
+  g++-11-multilib gcc-11-doc gfortran-11-multilib gfortran-11-doc libstdc++-11-doc
+The following NEW packages will be installed:
+  g++-11 gfortran-11 libgfortran-11-dev libstdc++-11-dev
+The following packages will be upgraded:
+  libgfortran5 libstdc++6
+2 upgraded, 4 newly installed, 0 to remove and 47 not upgraded.
+Need to get 24.9 MB of archives.
+```
+
+Note: ```gcc-multilib``` is useful for cross-compiling, that is, compiling a program to run on a different processor architecture. For example, you would need ```gcc-multilib``` if you are running on 64-bit Ubuntu and want to compile a program to run on 32-bit Ubuntu (or on ARM etc. you get the idea). So we will install the multilib as suggested:
+```
+sudo apt install g++-11-multilib
+```
+
 Check gcc version to verify that the installation completed successfully:
 ```
 gcc-11 --version
@@ -65,6 +88,7 @@ Run a program:
 ```
 ./test
 ```
+______________
 
 #### Uninstall gcc
 If you want to completely remove gcc and related dependencies, run the following command:
