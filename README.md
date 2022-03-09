@@ -43,9 +43,9 @@ ____
 
 ### dev tools:
 * WinMerge
-* MSYS2
+* MSYS2 (GCC compiler on Windows system)
+* VS Code(Extensions: WSL / C/C++ Intellisense / CMake / GitHub / Python ...)
 * Python
-* VS Code
 * CMake
 * Git
 * yEd
@@ -60,7 +60,7 @@ ____
 ____
 ## Python
 ### installation
-Install Python on Linux
+#### Install Python on Linux
 To install the latest version of Python on Debian-based Linux distributions, you can create a new terminal (Ctrl + Shift + `) and run the following commands:
 ```
 sudo apt-get update
