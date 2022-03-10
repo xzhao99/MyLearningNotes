@@ -14,5 +14,5 @@ python3 --version
 ```
 
 ### tutorials
-https://www.w3schools.com/python/default.asp
-https://www.geeksforgeeks.org/python-programming-language/?ref=ghm
+* https://www.w3schools.com/python/default.asp
+* https://www.geeksforgeeks.org/python-programming-language/?ref=ghm
