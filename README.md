@@ -30,6 +30,8 @@ ____
 * yEd
 * Source Trail
 * Vcpkg: helps you manage C and C++ libraries on Windows, Linux and MacOS developed by Microsoft
+* CPPCheck
+* sanitizers
 
 ### Visualization & Graphics
 * ParaView
