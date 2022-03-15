@@ -39,6 +39,9 @@ ____
 * VisIt
 * MeshLab
 
+### Miscellaneous:
+* [TuxRiders](http://tuxriders.com/)
+
 ____
 ## Python
 
