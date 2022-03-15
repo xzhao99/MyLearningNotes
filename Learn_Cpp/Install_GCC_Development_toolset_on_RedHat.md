@@ -1,4 +1,22 @@
 #### Development toolsets of RedHat
+Table 1.1. Red Hat Developer Toolset - 11 Components:
+
+|Name |	Version	|Description |
+|-----|---------|------------|
+|GCC       | 11.2  | A portable compiler suite with support for C, C++, and Fortran.|
+|binutils  | 2.36  | A collection of binary tools and other utilities to inspect and manipulate object files and binaries.|
+|elfutils  | 0.185 | A collection of binary tools and other utilities to inspect and manipulate ELF files.|
+|dwz       | 0.14  | A tool to optimize DWARF debugging information contained in ELF shared libraries and ELF executables for size.|
+|GDB       | 10.2  | A command line debugger for programs written in C, C++, and Fortran.|
+|ltrace    | 0.7.91| A debugging tool to display calls to dynamic libraries that a program makes. It can also monitor system calls executed by programs.|
+|strace    | 5.13  | A debugging tool to monitor system calls that a program uses and signals it receives.|
+|memstomp  | 0.1.5 | A debugging tool to identify calls to library functions with overlapping memory regions that are not allowed by various standards.|
+|SystemTap | 4.5   | A tracing and probing tool to monitor the activities of the entire system without the need to instrument, recompile, install, and reboot.|
+|Valgrind  | 3.17.0| An instrumentation framework and a number of tools to profile applications in order to detect memory errors, identify memory management problems, and report any use of improper arguments in system calls.|
+|OProfile  | 1.4.0 | A system-wide profiler that uses the performance monitoring hardware on the processor to retrieve information about the kernel and executables on the system.|
+|Dyninst   | 11.0.0| A library for instrumenting and working with user-space executables during their execution.|
+|make      | 4.3   | A dependency-tracking build automation tool.|
+|annobin   | 9.82  | A build security checking tool.|
 
 
 _____
