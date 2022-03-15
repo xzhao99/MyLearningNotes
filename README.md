@@ -4,7 +4,7 @@
 
 ____
 ## CMake
-* https://shot511.github.io/2018-05-29-how-to-setup-opengl-project-with-cmake/ (Set up OpenGL project with CMake with prerequisites GLAD/GLFW3/GLM/stb_image)
+* 
 ____
 ## C/C++
 
@@ -25,7 +25,7 @@ ____
 * MSYS2 (GCC compiler on Windows system)
 * VS Code(Extensions: WSL / C/C++ Intellisense / CMake / GitHub / Python ...)
 * Python
-* CMake
+* CMake/xmake
 * Git
 * yEd
 * Source Trail
