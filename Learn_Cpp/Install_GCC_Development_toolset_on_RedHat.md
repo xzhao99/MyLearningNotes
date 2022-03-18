@@ -19,6 +19,16 @@ Table 1.1. Red Hat Developer Toolset - 11 Components:
 |annobin   | 9.82  | A build security checking tool.|
 
 
+To install all components that are included in Red Hat Developer Toolset, install the devtoolset-11 package:
+```
+yum install devtoolset-11
+yum update  # Updating to a Minor Version
+```
+This installs all development, debugging, and performance monitoring tools, and other dependent packages to the system. When a new major version of Red Hat Developer Toolset is available, you can install it in parallel with the previous version.
+
+**IMPORTANT**
+Use of Red Hat Developer Toolset requires the removal of any earlier pre-release versions of it. Additionally, it is not possible to update to Red Hat Developer Toolset 11.0 from a pre-release version of Red Hat Developer Toolset, including beta releases. If you have previously installed any pre-release version of Red Hat Developer Toolset, uninstall it from your system as described in Section 1.7, “Uninstalling Red Hat Developer Toolset” and install the new version as documented in Section 1.5, “Installing Red Hat Developer Toolset”.
+
 _____
 #### Reference:
 * https://access.redhat.com/documentation/en-us/red_hat_developer_toolset/11/html-single/user_guide/index  (User Guide)
