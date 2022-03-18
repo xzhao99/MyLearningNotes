@@ -28,3 +28,5 @@ Update the resources :
 ```
 sudo yum upgrade
 ```
+
+From: https://access.redhat.com/discussions/4603661
