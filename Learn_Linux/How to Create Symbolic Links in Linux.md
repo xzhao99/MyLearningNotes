@@ -2,11 +2,12 @@ To use the ```ln``` command, open a terminal window and enter the command with t
 ```
 ln [-sf] [source] [destination]
 ```
-By default, the ```ln``` command creates a *hard link.*
-Use the ```-s``` option to create a *soft (symbolic) link*.
-The ```-f``` option will force the command to **overwrite** a file that already exists.
-Source is the file or directory being linked to.
-Destination is the location to save the link – if this is left blank, the symlink is stored in the current working directory.
+- By default, the ```ln``` command creates a *hard link.*
+- Use the ```-s``` option to create a *soft (symbolic) link*.
+- The ```-f``` option will force the command to **overwrite** a file that already exists.
+- Source is the file or directory being linked to.
+- Destination is the location to save the link – if this is left blank, the symlink is stored in the current working directory.
+
 For example, create a symbolic link with:
 ```
 ln -s test_file.txt link_file.txt
