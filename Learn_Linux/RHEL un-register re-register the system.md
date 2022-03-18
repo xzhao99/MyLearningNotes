@@ -6,7 +6,7 @@ sudo subscription-manager remove --all
 sudo subscription-manager unregister
 sudo subscription-manager clean
 ```
-Re-register the system :
+Re-register the system (username/password required):
 ```
 sudo subscription-manager register
 sudo subscription-manager refresh
@@ -29,4 +29,6 @@ Update the resources :
 sudo yum upgrade
 ```
 
-From: https://access.redhat.com/discussions/4603661
+### Ref: 
+- https://access.redhat.com/discussions/4603661
+- https://access.redhat.com/solutions/253273
