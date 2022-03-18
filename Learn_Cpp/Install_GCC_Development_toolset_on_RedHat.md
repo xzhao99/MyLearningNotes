@@ -19,6 +19,41 @@ Table 1.1. Red Hat Developer Toolset - 11 Components:
 |annobin   | 9.82  | A build security checking tool.|
 
 
+```
+sudo subscription-manager repos --list
+```
+will list all the repos. In addition, certain packages, such as devtoolset-11-gcc-plugin-devel, depend on packages that are only available in the Optional channel. The repository names with these packages use the following format:
+
+
+```
++----------------------------------------------------------+
+    Available Repositories in /etc/yum.repos.d/redhat.repo
++----------------------------------------------------------+
+Repo ID:   rhv-4-tools-for-rhel-8-x86_64-debug-rpms
+Repo Name: Red Hat Virtualization 4 Tools for RHEL 8 x86_64 (Debug RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/layered/rhel8/x86_64/rhv-tools/4/debug
+Enabled:   0
+
+Repo ID:   satellite-tools-6.9-for-rhel-8-x86_64-source-rpms
+Repo Name: Red Hat Satellite Tools 6.9 for RHEL 8 x86_64 (Source RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/layered/rhel8/x86_64/sat-tools/6.9/source/SRPMS
+Enabled:   0
+
+Repo ID:   rh-gluster-3-client-for-rhel-8-x86_64-rpms
+Repo Name: Red Hat Storage Native Client for RHEL 8 (RPMs)
+Repo URL:  https://cdn.redhat.com/content/dist/layered/rhel8/x86_64/rhgs-client/3.5/os
+Enabled:   0
+
+.............
+```
+
+In addition, certain packages, such as *devtoolset-11-gcc-plugin-devel*, depend on packages that are only available in the Optional channel. The repository names with these packages use the following format:
+```
+rhel-7-server-optional-rpms
+rhel-7-server-optional-debug-rpms
+rhel-7-server-optional-source-rpms
+```
+
 To install all components that are included in Red Hat Developer Toolset, install the devtoolset-11 package:
 ```
 yum install devtoolset-11
