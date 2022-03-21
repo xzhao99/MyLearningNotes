@@ -33,6 +33,17 @@ _________________________________
 * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
 * 
 _________________________________
+
+## Cross-Platform Package Management:
+* [Conda]()
+  - [Conda-forge](https://conda-forge.org/)
+  - [Conda-user guide](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html)
+* [Mamba](https://github.com/mamba-org/mamba)
+
+### Reference:
+* [C++ Development With Conda](https://www.prouvost.dev/post/2021/c-development-with-conda)
+* 
+
 #### Applied Mathematics Laboratory @ SISSA:
 * https://mathlab.sissa.it/
 * https://github.com/mathLab
