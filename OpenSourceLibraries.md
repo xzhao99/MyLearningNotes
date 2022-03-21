@@ -3,7 +3,7 @@ _________________________________
 * [Petsc](https://petsc.org/)
 * [Trilinos](https://trilinos.github.io/)
 * [Slepc](https://slepc.upv.es/)
-* [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
+* 
 
 _________________________________
 
@@ -22,6 +22,16 @@ _________________________________
 * [G+Smo](https://gismo.github.io/):
 G+Smo (Geometry + Simulation Modules, pronounced "gismo") is an open-source C++ library that brings together mathematical tools for geometric design and numerical simulation. It implements the relatively new paradigm of isogeometric analysis, which suggests the use of a unified framework in the design and analysis pipeline. G+Smo is an object-oriented, cross-platform, template C++ library and follows the generic programming principle, with a focus on both efficiency and ease of use. The library aims at providing access to high quality, open-source software to the forming isogeometric numerical simulation community and beyond.
 
+_________________________________
+
+## Geometry
+* OpenCascade
+* VTK
+* CGAL
+* OpenMesh
+* MeshLab
+* [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
+* 
 _________________________________
 #### Applied Mathematics Laboratory @ SISSA:
 * https://mathlab.sissa.it/
