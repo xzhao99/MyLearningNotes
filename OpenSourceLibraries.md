@@ -3,6 +3,8 @@ _________________________________
 * [Petsc](https://petsc.org/)
 * [Trilinos](https://trilinos.github.io/)
 * [Slepc](https://slepc.upv.es/)
+* [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
+
 _________________________________
 
 ## Finite Element Libraries:
