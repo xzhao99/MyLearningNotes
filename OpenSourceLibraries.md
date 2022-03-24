@@ -39,6 +39,13 @@ _________________________________
   - [Conda-forge](https://conda-forge.org/)
   - [Conda-user guide](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html)
 * [Mamba](https://github.com/mamba-org/mamba)
+* [vcpkg](https://github.com/microsoft/vcpkg)
+  - [vcpkg — C++ Easy Mode Step by Step Tutorial](https://gamefromscratch.com/vcpkg-cpp-easy-mode-step-by-step-tutorial/)
+  - [YouTube resources](https://www.youtube.com/results?search_query=vcpkg)
+* [conan](https://conan.io/)
+* conan vs vcpkg:
+  - [Vcpkg Vs Conan: Best Package Manager For C++?](https://matgomes.com/vcpkg-vs-conan-for-cpp/)
+  - [vcpkg-vs-conan: features comparison](https://github.com/52doho/vcpkg-vs-conan)
 
 ### Reference:
 * [C++ Development With Conda](https://www.prouvost.dev/post/2021/c-development-with-conda)
