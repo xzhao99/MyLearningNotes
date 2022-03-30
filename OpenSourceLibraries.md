@@ -3,7 +3,7 @@ _________________________________
 * [Petsc](https://petsc.org/)
 * [Trilinos](https://trilinos.github.io/)
 * [Slepc](https://slepc.upv.es/)
-* 
+* [Eigen](https://eigen.tuxfamily.org/)
 
 _________________________________
 
