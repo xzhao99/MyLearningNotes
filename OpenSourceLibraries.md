@@ -16,6 +16,7 @@ _________________________________
 * [libMesh](https://libmesh.github.io/): adaptive finite element library
 * [MOOSE](https://mooseframework.inl.gov/): Multiphysics Object-Oriented Simulation Environment finite element framework, built on top of libMesh and PETSc
 * [FEniCS](https://fenicsproject.org/) Python based finite element simulation package
+* [BACI](https://baci.pages.gitlab.lrz.de/website/index.html)A Comprehensive Multi-Physics Simulation Framework(Prof. Dr.-Ing. Wolfgang A. Wall in TUM, not open-source)
 _________________________________
 ## IGA
 * [IGA-dealii](https://github.com/mathLab/IGA-dealii): Isogeometric Analysis classes for the deal.II library
@@ -26,8 +27,8 @@ _________________________________
 
 ## Geometry
 * OpenCascade
-* VTK
-* CGAL
+* [VTK](https://vtk.org/)
+* [CGAL](https://www.cgal.org/)
 * OpenMesh
 * MeshLab
 * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
@@ -35,9 +36,11 @@ _________________________________
 _________________________________
 
 ## Cross-Platform Package Management:
-* [Conda]()
+* [Anaconda](https://anaconda.org/)
+  - [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   - [Conda-forge](https://conda-forge.org/)
   - [Conda-user guide](https://docs.conda.io/projects/conda/en/latest/user-guide/index.html)
+  - [RHEL7 ANACONDA CUSTOMIZATION GUIDE](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/anaconda_customization_guide/index#sect-anaconda-visuals-graphics)
 * [Mamba](https://github.com/mamba-org/mamba)
 * [vcpkg](https://github.com/microsoft/vcpkg)
   - [vcpkg — C++ Easy Mode Step by Step Tutorial](https://gamefromscratch.com/vcpkg-cpp-easy-mode-step-by-step-tutorial/)
