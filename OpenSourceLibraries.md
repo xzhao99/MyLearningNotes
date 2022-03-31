@@ -29,8 +29,9 @@ _________________________________
 * OpenCascade
 * [VTK](https://vtk.org/)
 * [CGAL](https://www.cgal.org/)
+* [VCGLib](https://github.com/cnr-isti-vclab/vcglib), [Documentation](http://vcg.isti.cnr.it/vcglib/)
 * OpenMesh
-* MeshLab
+* [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
 * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
 * 
 _________________________________
