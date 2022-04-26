@@ -33,7 +33,7 @@ _________________________________
 * OpenMesh
 * [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
 * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
-* 
+* [GuidedDenoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
 _________________________________
 
 ## Cross-Platform Package Management:
