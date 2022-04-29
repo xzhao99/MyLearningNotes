@@ -41,6 +41,7 @@ ____
 
 ### Miscellaneous:
 * [TuxRiders](http://tuxriders.com/): a journey to research experiences using free and open-source scientific computing programs
+* [VlC Media Player](https://www.videolan.org/vlc/):free and open source cross-platform multimedia player
 
 ____
 ## Python
