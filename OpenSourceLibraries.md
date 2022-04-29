@@ -28,6 +28,7 @@ _________________________________
 ## Geometry
 * OpenCascade
 * [VTK](https://vtk.org/)
+* [ITK]
 * [CGAL](https://www.cgal.org/)
 * [VCGLib](https://github.com/cnr-isti-vclab/vcglib), [Documentation](http://vcg.isti.cnr.it/vcglib/)
 * OpenMesh
