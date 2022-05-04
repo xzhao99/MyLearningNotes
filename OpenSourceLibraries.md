@@ -35,6 +35,11 @@ _________________________________
 * [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
 * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
 * [GuidedDenoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
+
+### Learning materials:
+  * [A Gentle Introduction to **Bilateral Filtering** and its Applications](https://people.csail.mit.edu/sparis/bf_course/):
+    - Tutorial/Course notes, slides and code tought at ACM SIGGRAPH 2007,2008/IEEE CVPR 2008
+    - Related course links of Computational photography and Level set for computer graphics
 _________________________________
 
 ## Cross-Platform Package Management:
