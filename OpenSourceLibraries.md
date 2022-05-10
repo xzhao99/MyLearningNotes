@@ -16,6 +16,7 @@ _________________________________
 * [libMesh](https://libmesh.github.io/): adaptive finite element library
 * [MOOSE](https://mooseframework.inl.gov/): Multiphysics Object-Oriented Simulation Environment finite element framework, built on top of libMesh and PETSc
 * [FEniCS](https://fenicsproject.org/) Python based finite element simulation package
+* [MFEM](https://mfem.org/): Parallel FEM library developed in LLNL supporting higher-order FE, IGA, DG, Mixed FE, Mesh optimization, CPU/GPU parallelization and many other features.
 * [BACI](https://baci.pages.gitlab.lrz.de/website/index.html)A Comprehensive Multi-Physics Simulation Framework(Prof. Dr.-Ing. Wolfgang A. Wall in TUM, not open-source)
 _________________________________
 ## IGA
