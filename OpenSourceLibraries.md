@@ -17,7 +17,7 @@ _________________________________
 * [MOOSE](https://mooseframework.inl.gov/): Multiphysics Object-Oriented Simulation Environment finite element framework, built on top of libMesh and PETSc
 * [FEniCS](https://fenicsproject.org/) Python based finite element simulation package
 * [MFEM](https://mfem.org/): Parallel FEM library developed in LLNL supporting higher-order FE, IGA, DG, Mixed FE, Mesh optimization, CPU/GPU parallelization and many other features.
-* [BACI](https://baci.pages.gitlab.lrz.de/website/index.html)A Comprehensive Multi-Physics Simulation Framework(Prof. Dr.-Ing. Wolfgang A. Wall in TUM, not open-source)
+* [BACI](https://baci.pages.gitlab.lrz.de/website/index.html): A Comprehensive Multi-Physics Simulation Framework(Prof. Dr.-Ing. Wolfgang A. Wall in TUM, not open-source)
 _________________________________
 ## IGA
 * [IGA-dealii](https://github.com/mathLab/IGA-dealii): Isogeometric Analysis classes for the deal.II library
@@ -32,12 +32,13 @@ _________________________________
 * [ITK]
 * [CGAL](https://www.cgal.org/)
 * [VCGLib](https://github.com/cnr-isti-vclab/vcglib), [Documentation](http://vcg.isti.cnr.it/vcglib/)
-* OpenMesh
 * [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
+* [OpenMesh](www.openmesh.org)
 * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
 * [GuidedDenoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
 * [TetWild - Tetrahedral Meshing in the Wild](https://github.com/Yixin-Hu/TetWild)
 * [TriWild: Robust Triangulation With Curve Constraints](https://github.com/wildmeshing/TriWild)
+* [CloudCompare](https://www.cloudcompare.org/main.html)
 
 ### Learning materials:
   * [A Gentle Introduction to **Bilateral Filtering** and its Applications](https://people.csail.mit.edu/sparis/bf_course/):
