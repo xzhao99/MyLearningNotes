@@ -3,8 +3,9 @@ _________________________________
 * [Petsc](https://petsc.org/)
 * [Trilinos](https://trilinos.github.io/)
 * [Slepc](https://slepc.upv.es/)
-* [Eigen](https://eigen.tuxfamily.org/)
 * [Boost](https://www.boost.org/)
+* [Eigen](https://eigen.tuxfamily.org/)
+* [spectra](https://spectralib.org/): C++ Library For Large Scale Eigenvalue Problems(built on top of Eigen)
 
 _________________________________
 
