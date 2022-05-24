@@ -4,6 +4,7 @@ _________________________________
 * [Trilinos](https://trilinos.github.io/)
 * [Slepc](https://slepc.upv.es/)
 * [Eigen](https://eigen.tuxfamily.org/)
+* [Boost](https://www.boost.org/)
 
 _________________________________
 
@@ -29,11 +30,14 @@ _________________________________
 ## Geometry
 * OpenCascade
 * [VTK](https://vtk.org/)
-* [ITK]
+* [ITK](itk.org)
 * [CGAL](https://www.cgal.org/)
 * [VCGLib](https://github.com/cnr-isti-vclab/vcglib), [Documentation](http://vcg.isti.cnr.it/vcglib/)
 * [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
 * [OpenMesh](www.openmesh.org)
+* [OpenFlipper](https://www.openflipper.org/): A multi-platform application using OpenMesh
+* [PMP: Polygon Mesh Processing Library](https://www.pmp-library.org/)
+* [libIGL](https://libigl.github.io/): a simple header-only C++ geometry processing library.
 * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
 * [GuidedDenoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
 * [TetWild - Tetrahedral Meshing in the Wild](https://github.com/Yixin-Hu/TetWild)
