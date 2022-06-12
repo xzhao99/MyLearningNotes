@@ -54,7 +54,11 @@ _________________________________
 
 # Dev
 * [Intel ONEAPI Toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html#gs.0ia0ni)
-* [CLI11](https://github.com/CLIUtils/CLI11):CLI11: Command line parser for C++11.
+* [CLI11](https://github.com/CLIUtils/CLI11): CLI11: Command line parser for C++11.
+* [glog](https://github.com/google/glog): C++ implementation of the Google logging module
+* [BOOST.Log](https://github.com/boostorg/log): part of collection of the Boost C++ Libraries, provides tools for adding logging to libraries and applications.
+* [plog](https://github.com/SergiusTheBest/plog) - portable, simple and extensible C++ logging library
+* [GoogleTest](https://github.com/google/googletest): Google Testing and Mocking Framework
 
 _________________________________
 
