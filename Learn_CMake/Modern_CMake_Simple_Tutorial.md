@@ -2,6 +2,9 @@
 
 ## YouTube
 * https://www.youtube.com/watch?v=mKZ-i-UfGgQ (Cocevion: Simplified CMake Tutorial)
+* https://www.youtube.com/watch?v=ffwB60oKr-w&list=PL8i3OhJb4FNV10aIZ8oF0AA46HgA2ed8g (Better CMake List: part 1 - 10)
+* https://www.youtube.com/watch?v=lZ4VytXLNSo&list=PL-UNXjSqcu61LEUuH5PIk2VOsnlaVhKju (Learning CMake and CTest: part 1 - 3)
+* https://www.youtube.com/watch?v=nlKcXPUJGwA&list=PLalVdRk2RC6o5GHu618ARWh0VO0bFlif4 (CMake Tutorials by Code, Tech and Tutorials)
 
 
 ## Online Resource:
