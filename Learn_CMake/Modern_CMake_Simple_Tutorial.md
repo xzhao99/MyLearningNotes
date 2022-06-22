@@ -23,6 +23,12 @@
 * https://cmake.org/cmake/help/latest/module/FindBoost.html (Find Boost Library using CMake)
 * https://github.com/cpm-cmake/CPM.cmake (CPM)
 
+## Projects using CMake(good materials for learning)
+* [Adventure Game Studio](https://github.com/adventuregamestudio) 
+  - [Engine](https://github.com/adventuregamestudio/ags/blob/538e9072b03b0441853ac0022d17f8990065f8de/Engine/CMakeLists.txt#L655)
+  - [Compiler](https://github.com/adventuregamestudio/ags/blob/538e9072b03b0441853ac0022d17f8990065f8de/Compiler/CMakeLists.txt#L104)
+  - [Common](https://github.com/adventuregamestudio/ags/blob/538e9072b03b0441853ac0022d17f8990065f8de/Common/CMakeLists.txt#L248)
+
 _____________________________________
 ## General
 ### CMAKE_CURRENT_SOURCE_DIR vs. PROJECT_SOURCE_DIR
