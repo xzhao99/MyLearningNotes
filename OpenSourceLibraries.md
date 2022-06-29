@@ -40,11 +40,15 @@ _________________________________
 * [PMP: Polygon Mesh Processing Library](https://www.pmp-library.org/)
 * [libigl](https://libigl.github.io/): a simple header-only C++ geometry processing library.
 * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
-* [GuidedDenoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
 * [TetWild](https://github.com/Yixin-Hu/TetWild) and [fTetWild](https://github.com/wildmeshing/fTetWild) - (Fast) Tetrahedral Meshing in the Wild
 * [TriWild: Robust Triangulation With Curve Constraints](https://github.com/wildmeshing/TriWild)
 * [Surface Multigrid via Intrinsic Prolongation](https://github.com/HTDerekLiu/surface_multigrid_code): geometric multigrid solver on top of libigl
 * [CloudCompare](https://www.cloudcompare.org/main.html)
+* Mesh Denoising code in Github:
+  * [GuidedDenoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
+  * [Mesh total generalized variation for denoising](https://github.com/LabZhengLiu/MeshTGV)
+
+
 
 ### Learning materials:
   * [A Gentle Introduction to **Bilateral Filtering** and its Applications](https://people.csail.mit.edu/sparis/bf_course/):
