@@ -63,6 +63,7 @@ _________________________________
 * [BOOST.Log](https://github.com/boostorg/log): part of collection of the Boost C++ Libraries, provides tools for adding logging to libraries and applications.
 * [plog](https://github.com/SergiusTheBest/plog) - portable, simple and extensible C++ logging library
 * [GoogleTest](https://github.com/google/googletest): Google Testing and Mocking Framework
+* [GoogleBenchmark](https://github.com/google/benchmark)
 * [Jenkins](https://www.jenkins.io/): a CI/CD platform for auto build, test and deploy code.
 * [Best Open Source CI/CD tools for 2022](https://hevodata.com/learn/open-source-ci-cd-tools/)
   * Jenkins
