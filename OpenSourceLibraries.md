@@ -75,7 +75,10 @@ _________________________________
 * [glog](https://github.com/google/glog): C++ implementation of the Google logging module
 * [GoogleTest](https://github.com/google/googletest): Google Testing and Mocking Framework
 * [GoogleBenchmark](https://github.com/google/benchmark)
-* [Catch2](https://github.com/catchorg/Catch2/blob/devel/docs/cmake-integration.md)
+* [Catch2](https://github.com/catchorg/Catch2)
+  * [Official doc on CMake integration](https://github.com/catchorg/Catch2/blob/devel/docs/cmake-integration.md)
+  * [Integration with CMake/CTest in StackOverflow](https://stackoverflow.com/questions/34896891/catch-lib-unit-testing-and-ctest-cmake-integration)
+  * [CMake example in Github](https://github.com/ComicSansMS/GhulbusBase/blob/master/CMakeLists.txt)
 * [Best Open Source CI/CD tools for 2022](https://hevodata.com/learn/open-source-ci-cd-tools/)
   * [Jenkins](https://www.jenkins.io/): a CI/CD platform for auto build, test and deploy code.
   * Gradle
