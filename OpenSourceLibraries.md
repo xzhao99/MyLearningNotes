@@ -29,28 +29,39 @@ G+Smo (Geometry + Simulation Modules, pronounced "gismo") is an open-source C++ 
 _________________________________
 
 ## Geometry
-* OpenCascade
-* [VTK](https://vtk.org/)
-* [ITK](itk.org)
-* [CGAL](https://www.cgal.org/)
-* [VCGLib](https://github.com/cnr-isti-vclab/vcglib), [Documentation](http://vcg.isti.cnr.it/vcglib/)
-* [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
-* [OpenMesh](www.openmesh.org)
-* [OpenFlipper](https://www.openflipper.org/): A multi-platform application using OpenMesh
-* [PMP: Polygon Mesh Processing Library](https://www.pmp-library.org/)
-* [libigl](https://libigl.github.io/): a simple header-only C++ geometry processing library.
-* [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
-* [TetWild](https://github.com/Yixin-Hu/TetWild) and [fTetWild](https://github.com/wildmeshing/fTetWild) - (Fast) Tetrahedral Meshing in the Wild
-* [TriWild: Robust Triangulation With Curve Constraints](https://github.com/wildmeshing/TriWild)
-* [Surface Multigrid via Intrinsic Prolongation](https://github.com/HTDerekLiu/surface_multigrid_code): geometric multigrid solver on top of libigl
-* [CloudCompare](https://www.cloudcompare.org/main.html)
-* Mesh Denoising code in Github:
-  * [GuidedDenoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
-  * [Mesh total generalized variation for denoising](https://github.com/LabZhengLiu/MeshTGV)
+* ### Computatianl Geometry and Mesh Processing:
+  * [CGAL](https://www.cgal.org/)
+  * [libigl](https://libigl.github.io/): a simple header-only C++ geometry processing library.
+  * [PMP: Polygon Mesh Processing Library](https://www.pmp-library.org/)
+  * [VCGLib](https://github.com/cnr-isti-vclab/vcglib), [Documentation](http://vcg.isti.cnr.it/vcglib/)
+  * [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
+  * [OpenMesh](www.openmesh.org)
+  * [OpenFlipper](https://www.openflipper.org/): A multi-platform application using OpenMesh
+  * Mesh Denoising code in Github:
+    - [Guided Mesh Denoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
+    - [Mesh total generalized variation for denoising](https://github.com/LabZhengLiu/MeshTGV)
+* ### CAD:
+  * [OpenCascade](https://dev.opencascade.org/)
+* ### Mesh Generation:
+  * [Gmsh](https://gmsh.info/)
+  * [TetGen](https://wias-berlin.de/software/index.jsp?id=TetGen)
+  * [TetWild](https://github.com/Yixin-Hu/TetWild) and [fTetWild](https://github.com/wildmeshing/fTetWild) - (Fast) Tetrahedral Meshing in the Wild
+  * [TriWild: Robust Triangulation With Curve Constraints](https://github.com/wildmeshing/TriWild)
+* ### Visualization and Rendering:
+  * [VTK](https://vtk.org/)
+  * [ITK](itk.org)
+  * [ParaView](https://www.paraview.org/)
+  * [VisIt](https://visit-dav.github.io/visit-website/)
+* ### CG Tools and solvers:
+  * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
+  * [Surface Multigrid via Intrinsic Prolongation](https://github.com/HTDerekLiu/surface_multigrid_code): geometric multigrid solver on top of libigl
+* ### Point Clouds:
+  * [CloudCompare](https://www.cloudcompare.org/main.html)
+  * [Point Cloud Library (PCL)](https://pointclouds.org/)
+  * [3DKT](https://slam6d.sourceforge.io/): 
+  * [Awesome-Point-Cloud-Processing](https://github.com/mmolero/awesome-point-cloud-processing): A curated list of awesome Point Cloud Processing Resources, Libraries, Software.
 
-
-
-### Learning materials:
+### Tutorials and Learning materials:
   * [A Gentle Introduction to **Bilateral Filtering** and its Applications](https://people.csail.mit.edu/sparis/bf_course/):
     - Tutorial/Course notes, slides and code tought at ACM SIGGRAPH 2007,2008/IEEE CVPR 2008
     - Related course links of Computational photography and Level set for computer graphics
@@ -59,15 +70,14 @@ _________________________________
 # Dev
 * [Intel ONEAPI Toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html#gs.0ia0ni)
 * [CLI11](https://github.com/CLIUtils/CLI11): CLI11: Command line parser for C++11.
-* [glog](https://github.com/google/glog): C++ implementation of the Google logging module
 * [BOOST.Log](https://github.com/boostorg/log): part of collection of the Boost C++ Libraries, provides tools for adding logging to libraries and applications.
 * [plog](https://github.com/SergiusTheBest/plog) - portable, simple and extensible C++ logging library
+* [glog](https://github.com/google/glog): C++ implementation of the Google logging module
 * [GoogleTest](https://github.com/google/googletest): Google Testing and Mocking Framework
 * [GoogleBenchmark](https://github.com/google/benchmark)
 * [Catch2](https://github.com/catchorg/Catch2/blob/devel/docs/cmake-integration.md)
-* [Jenkins](https://www.jenkins.io/): a CI/CD platform for auto build, test and deploy code.
 * [Best Open Source CI/CD tools for 2022](https://hevodata.com/learn/open-source-ci-cd-tools/)
-  * Jenkins
+  * [Jenkins](https://www.jenkins.io/): a CI/CD platform for auto build, test and deploy code.
   * Gradle
   * GitLab
   * CodeShip
