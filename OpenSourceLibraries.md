@@ -64,6 +64,7 @@ _________________________________
 * [plog](https://github.com/SergiusTheBest/plog) - portable, simple and extensible C++ logging library
 * [GoogleTest](https://github.com/google/googletest): Google Testing and Mocking Framework
 * [GoogleBenchmark](https://github.com/google/benchmark)
+* [Catch2](https://github.com/catchorg/Catch2/blob/devel/docs/cmake-integration.md)
 * [Jenkins](https://www.jenkins.io/): a CI/CD platform for auto build, test and deploy code.
 * [Best Open Source CI/CD tools for 2022](https://hevodata.com/learn/open-source-ci-cd-tools/)
   * Jenkins
@@ -72,6 +73,7 @@ _________________________________
   * CodeShip
   * Buddy
   * GoCD
+  * CTest/CDash: [Tutorial](https://embeddeduse.com/2022/05/02/building-a-ci-pipeline-with-ctest-and-cdash/)
 
 _________________________________
 
