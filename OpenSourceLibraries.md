@@ -29,7 +29,7 @@ G+Smo (Geometry + Simulation Modules, pronounced "gismo") is an open-source C++ 
 _________________________________
 
 ## Geometry
-* ### Computatianl Geometry and Mesh Processing:
+* Computatianl Geometry and Mesh Processing:
   * [CGAL](https://www.cgal.org/)
   * [libigl](https://libigl.github.io/): a simple header-only C++ geometry processing library.
   * [PMP: Polygon Mesh Processing Library](https://www.pmp-library.org/)
@@ -40,22 +40,22 @@ _________________________________
   * Mesh Denoising code in Github:
     - [Guided Mesh Denoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
     - [Mesh total generalized variation for denoising](https://github.com/LabZhengLiu/MeshTGV)
-* ### CAD:
+* CAD:
   * [OpenCascade](https://dev.opencascade.org/)
-* ### Mesh Generation:
+* Mesh Generation:
   * [Gmsh](https://gmsh.info/)
   * [TetGen](https://wias-berlin.de/software/index.jsp?id=TetGen)
   * [TetWild](https://github.com/Yixin-Hu/TetWild) and [fTetWild](https://github.com/wildmeshing/fTetWild) - (Fast) Tetrahedral Meshing in the Wild
   * [TriWild: Robust Triangulation With Curve Constraints](https://github.com/wildmeshing/TriWild)
-* ### Visualization and Rendering:
+* Visualization and Rendering:
   * [VTK](https://vtk.org/)
   * [ITK](itk.org)
   * [ParaView](https://www.paraview.org/)
   * [VisIt](https://visit-dav.github.io/visit-website/)
-* ### CG Tools and solvers:
+* CG Tools and solvers:
   * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
   * [Surface Multigrid via Intrinsic Prolongation](https://github.com/HTDerekLiu/surface_multigrid_code): geometric multigrid solver on top of libigl
-* ### Point Clouds:
+* Point Clouds:
   * [CloudCompare](https://www.cloudcompare.org/main.html)
   * [Point Cloud Library (PCL)](https://pointclouds.org/)
   * [3DKT](https://slam6d.sourceforge.io/): 
@@ -67,7 +67,7 @@ _________________________________
     - Related course links of Computational photography and Level set for computer graphics
 _________________________________
 
-# Dev
+## Dev
 * [Intel ONEAPI Toolkits](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html#gs.0ia0ni)
 * [CLI11](https://github.com/CLIUtils/CLI11): CLI11: Command line parser for C++11.
 * [BOOST.Log](https://github.com/boostorg/log): part of collection of the Boost C++ Libraries, provides tools for adding logging to libraries and applications.
@@ -109,7 +109,7 @@ _________________________________
 * [C++ Development With Conda](https://www.prouvost.dev/post/2021/c-development-with-conda)
 * 
 
-#### Applied Mathematics Laboratory @ SISSA:
+### Applied Mathematics Laboratory @ SISSA:
 * https://mathlab.sissa.it/
 * https://github.com/mathLab
 
