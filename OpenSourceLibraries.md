@@ -40,6 +40,7 @@ _________________________________
   * Mesh Denoising code in Github:
     - [Guided Mesh Denoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
     - [Mesh total generalized variation for denoising](https://github.com/LabZhengLiu/MeshTGV)
+  * [libQEx](https://github.com/hcebke/libQEx) – A Robust Quad Mesh Extractor(source code in github)
 * CAD:
   * [OpenCascade](https://dev.opencascade.org/)
 * Mesh Generation:
@@ -73,7 +74,7 @@ _________________________________
 * [BOOST.Log](https://github.com/boostorg/log): part of collection of the Boost C++ Libraries, provides tools for adding logging to libraries and applications.
 * [plog](https://github.com/SergiusTheBest/plog) - portable, simple and extensible C++ logging library
 * [glog](https://github.com/google/glog): C++ implementation of the Google logging module
-* [GoogleTest](https://github.com/google/googletest): Google Testing and Mocking Framework
+* [GoogleTest](https://github.com/google/googletest): Google Testing and Mocking Framework [User's Guide](https://google.github.io/googletest/)
 * [GoogleBenchmark](https://github.com/google/benchmark)
 * [Catch2](https://github.com/catchorg/Catch2)
   * [Official doc on CMake integration](https://github.com/catchorg/Catch2/blob/devel/docs/cmake-integration.md)
