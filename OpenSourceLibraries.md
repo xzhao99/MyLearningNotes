@@ -53,6 +53,7 @@ _________________________________
   * [ITK](itk.org)
   * [ParaView](https://www.paraview.org/)
   * [VisIt](https://visit-dav.github.io/visit-website/)
+  * [Blender](https://www.blender.org/)
 * CG Tools and solvers:
   * [OpenVDB](https://www.openvdb.org/): open-source C++ library of sparse volumetric data discretized on three-dimensional grids
   * [Surface Multigrid via Intrinsic Prolongation](https://github.com/HTDerekLiu/surface_multigrid_code): geometric multigrid solver on top of libigl
