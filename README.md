@@ -33,11 +33,6 @@ ____
 * CPPCheck
 * sanitizers
 
-### Visualization & Graphics
-* ParaView
-* Blender
-* VisIt
-* MeshLab
 
 ### Miscellaneous:
 * [TuxRiders](http://tuxriders.com/): a journey to research experiences using free and open-source scientific computing programs
