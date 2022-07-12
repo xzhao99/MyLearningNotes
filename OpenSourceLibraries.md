@@ -21,6 +21,7 @@ _________________________________
 * [MFEM](https://mfem.org/): Parallel FEM library developed in LLNL supporting higher-order FE, IGA, DG, Mixed FE, Mesh optimization, CPU/GPU parallelization and many other features.
 * [BACI](https://baci.pages.gitlab.lrz.de/website/index.html): A Comprehensive Multi-Physics Simulation Framework(Prof. Dr.-Ing. Wolfgang A. Wall in TUM, not open-source)
 _________________________________
+
 ## IGA
 * [IGA-dealii](https://github.com/mathLab/IGA-dealii): Isogeometric Analysis classes for the deal.II library
 * [G+Smo](https://gismo.github.io/):
@@ -37,6 +38,7 @@ _________________________________
   * [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
   * [OpenMesh](www.openmesh.org)
   * [OpenFlipper](https://www.openflipper.org/): A multi-platform application using OpenMesh
+  * [Cinolib](https://github.com/mlivesu/cinolib): a C++ library for processing polygonal and polyhedral meshes (MIT license) by [Marco Livesu](http://pers.ge.imati.cnr.it/livesu/)
   * Mesh Denoising code in Github:
     - [Guided Mesh Denoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
     - [Mesh total generalized variation for denoising](https://github.com/LabZhengLiu/MeshTGV)
@@ -67,6 +69,13 @@ _________________________________
   * [A Gentle Introduction to **Bilateral Filtering** and its Applications](https://people.csail.mit.edu/sparis/bf_course/):
     - Tutorial/Course notes, slides and code tought at ACM SIGGRAPH 2007,2008/IEEE CVPR 2008
     - Related course links of Computational photography and Level set for computer graphics
+
+_________________________________
+
+## Computer vision:
+* [openMVG](https://github.com/openMVG/openMVG): open Multiple View Geometry
+* [AliceVision](https://github.com/alicevision/AliceVision): a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. 
+
 _________________________________
 
 ## Dev
