@@ -15,7 +15,7 @@ _________________________________
 * [PRISMS-PF](http://prisms-center.github.io/phaseField/): An open-source, general purpose framework for high-performance phase field modeling(using deal.II by UMich)
   This will give a good example on how to build your own applications on top of deal.II using CMake:
   https://prisms-center.github.io/phaseField/doxygen_files/install.html
-* [libMesh](https://libmesh.github.io/): adaptive finite element library
+* [libMesh](https://libmesh.github.io/): adaptive finite element library(support IGA since v1.7)
 * [MOOSE](https://mooseframework.inl.gov/): Multiphysics Object-Oriented Simulation Environment finite element framework, built on top of libMesh and PETSc
 * [FEniCS](https://fenicsproject.org/) Python based finite element simulation package
 * [MFEM](https://mfem.org/): Parallel FEM library developed in LLNL supporting higher-order FE, IGA, DG, Mixed FE, Mesh optimization, CPU/GPU parallelization and many other features.
@@ -38,7 +38,10 @@ _________________________________
   * [MeshLab](https://github.com/cnr-isti-vclab/meshlab) (use VCGLib as the kernel)
   * [OpenMesh](www.openmesh.org)
   * [OpenFlipper](https://www.openflipper.org/): A multi-platform application using OpenMesh
-  * [Cinolib](https://github.com/mlivesu/cinolib): a C++ library for processing polygonal and polyhedral meshes (MIT license) by [Marco Livesu](http://pers.ge.imati.cnr.it/livesu/)
+  * [Cinolib](https://github.com/mlivesu/cinolib): a header-only C++ library for processing polygonal and polyhedral meshes (MIT license) by [Marco Livesu](http://pers.ge.imati.cnr.it/livesu/)
+  * [Geometry-central](https://geometry-central.net/): a modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes.
+  * [Geogram](https://github.com/BrunoLevy/geogram/wiki): a programming library with geometric algorithms.
+  * [MEPP2](https://projet.liris.cnrs.fr/mepp/mepp2/about.html): an open-source C++ software development kit (SDK) for processing and visualizing 3D surface meshes and point clouds.
   * Mesh Denoising code in Github:
     - [Guided Mesh Denoising](https://github.com/bldeng/GuidedDenoising/tree/master/src): Open-source code for mesh denoising algorithms
     - [Mesh total generalized variation for denoising](https://github.com/LabZhengLiu/MeshTGV)
