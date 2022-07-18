@@ -52,7 +52,7 @@ _________________________________
   * [Gmsh](https://gmsh.info/)
   * [TetGen](https://wias-berlin.de/software/index.jsp?id=TetGen)
     * [a course on Mesh Generation Methods and Softwares](https://www.wias-berlin.de/people/si/?lang=1)
-  * [TetWild](https://github.com/Yixin-Hu/TetWild) and [fTetWild](https://github.com/wildmeshing/fTetWild) - (Fast) Tetrahedral Meshing in the Wild
+  * [TetWild](https://github.com/Yixin-Hu/TetWild) and [fTetWild](https://github.com/wildmeshing/fTetWild) - (Fast) Tetrahedral Meshing in the Wild(See [Yixin Hu's website](https://yixin-hu.github.io/))
   * [TriWild: Robust Triangulation With Curve Constraints](https://github.com/wildmeshing/TriWild)
 * Visualization and Rendering:
   * [VTK](https://vtk.org/)
