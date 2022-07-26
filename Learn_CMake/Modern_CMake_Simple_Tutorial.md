@@ -15,6 +15,7 @@
 * https://jeremimucha.com/category/cmake/ (CMake fundamentals 1 - 9/FetchContent module by Jeremi Mucha)
 * https://cliutils.gitlab.io/modern-cmake/ (A modern CMake tutorial. Examples: CUDA/MPI/OpenMP/Boost/GoogleTest/Catch2/[advanced_project_template](https://gitlab.com/CLIUtils/modern-cmake/-/tree/master/examples/extended-project)...)
 * https://github.com/pr0g/cmake-examples (Modern CMake Examples - a collection of as simple as possible CMake projects)
+* https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1 (effective modern cmake)
 * https://hsf-training.github.io/hsf-training-cmake-webpage/ (More Modern CMake)
 * https://dmerej.info/blog/post/cmake-visual-studio-and-the-command-line/
 * https://docs.microsoft.com/en-us/cpp/build/cmake-projects-in-visual-studio?view=msvc-170&viewFallbackFrom=vs-2019 (CMake projects in Visual Studio)
